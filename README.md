@@ -7,3 +7,5 @@
 <br>
 
 The model was developed with support from an NSF postdoctoral fellowship, award number 1421125.
+
+<a href="https://zenodo.org/badge/latestdoi/81018941"><img src="https://zenodo.org/badge/81018941.svg" alt="DOI"></a>
